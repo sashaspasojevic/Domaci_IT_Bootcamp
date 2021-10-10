@@ -1,0 +1,12 @@
+
+Registrovani korisnici su: 
+
+ name: "Pera",
+ pass: "1234",
+
+
+ name: "Mara",
+ pass: "4567",
+
+ name: "Mile",
+ pass: "7891",

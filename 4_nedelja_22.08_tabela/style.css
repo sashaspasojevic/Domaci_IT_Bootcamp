@@ -1,0 +1,29 @@
+.container {
+  text-align: center;
+}
+
+.container .btn {
+  margin-bottom: 50px;
+  border: none;
+  padding: 10px;
+  border-radius: 3px;
+  background-color: seagreen;
+  color: white;
+}
+
+.container .btn:hover {
+  background-color: blueviolet;
+  cursor: pointer;
+}
+
+.container table {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.container table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
